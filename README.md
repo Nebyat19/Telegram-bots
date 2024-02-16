@@ -30,7 +30,7 @@ Welc This repository is a curated collection of Telegram bots made with PHP, Fla
 ![Screenshot: Achawach](/screenshots/achawach.png)
 *Achawach*
 
-![Screenshot: finDit](/screenshots/achawach1.png)
+![Screenshot: finDit](/screenshots/achawach2.png)
 *Achawach*
 
 ![Screenshot: AASTU_MALL](/screenshots/mall.png)
